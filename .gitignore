@@ -1,0 +1,6 @@
+# Build artifacts
+*.o
+inventory_manager
+
+# Runtime data file
+inventory.dat
